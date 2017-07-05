@@ -57,7 +57,7 @@ header {width:100%;margin-bottom:-16px;position:relative;z-index:1}
 .row-2 {width:100%;min-height:85px;position:relative;z-index:1}
 .row-3 {width:100%;min-height:417px;position:relative;z-index:2}
 h1 {padding:0px 0 0 0px;position:relative;float:left}
-.logo {display:block;width:224px;height:45px;text-indent:-5000px;background:url(../images/logo.png) 0 0 no-repeat;margin:10px 0 8px 0}
+.logo {display:block;width:324px;height:100px;text-indent:-5000px;background:url(../images/logo.png) 0 0 no-repeat;margin:10px 0 8px 0}
 .slog {display:block;font-size:14px;line-height:1.2em;color:#8a8a8a;text-transform:uppercase;letter-spacing:-1px}
 /* search-form */
 #search-form {width:244px;min-height:39px;padding:20px;margin-right:19px;background:#000;border-radius:18px;-moz-border-radius:18px;-webkit-border-radius:18px;float:right}
@@ -151,7 +151,7 @@ footer {width:100%;}
 .list-services li.item-1 {background:url(../images/facebook.png) 0 3px no-repeat}
 .list-services li.item-2 {background:url(../images/twitter.png) 0 3px no-repeat}
 .list-services li.item-3 {background:url(../images/linkedin.png) 0 3px no-repeat}
-.footer-logo {display:block;color:#9d9d9d;font-size:60px;line-height:1.2em;text-transform:uppercase;letter-spacing:-3px;font-weight:400;margin-bottom:5px}
+.footer-logo {display:block;color:#9d9d9d;font-size:40px;line-height:1.2em;text-transform:uppercase;letter-spacing:-3px;font-weight:400;margin-bottom:5px}
 .footer-logo strong {color:#00a9ff;text-transform:none;display:inline-block}
 .phone {display:inline-block;font-size:20px;line-height:1.2em;color:#9d9d9d;letter-spacing:-1px;padding-left:5px}
 .phone strong {color:#fff}
